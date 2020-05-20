@@ -1,0 +1,59 @@
+body {
+  background-image: url("cezar.png");
+  background-repeat: no-repeat;
+  background-size: 2100px;
+  background-position-x:1px;
+	background-color:black;
+	color: black;
+	
+  width: 80%;
+}
+h1.naslov {
+  font-family: cursive;
+  position: relative; right:-20px ;
+  font-size: 65px;
+  color:white
+
+}
+p.font1 {
+	font-weight: bold;
+  color: red;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+p.font3 {
+  
+  color:orange ;
+  font-family: sans-serif;
+}
+
+p.font2 {
+
+  color: yellow;
+  font-family: sans-serif;
+}
+
+p.link{
+  color: green;
+  font-size: 20px;
+  
+
+}
+a.resi{
+  color:chartreuse;
+  text-decoration: none;
+  
+  
+}
+
+img {
+  border: 4px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  border-color: brown;
+  
+}
+
+
+
